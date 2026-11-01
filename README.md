@@ -13,3 +13,12 @@ Asistencia: solo Entrada, deduplicar por código, fecha, hora, sentido; cruzar c
 Las fechas extraídas de los XLS están en mes/día/año; validar contra los encabezados y fechas no ambiguas. El 01/11/2026 es parcial. Días sin registros en el histórico actual: 22 y 23 agosto, 4 octubre; marcar incertidumbre sin asumir cierre. Comparación publicada: 02/10–31/10 frente a 02/09–01/10, socios activos cuya alta es ≤ 02/09 y al menos una entrada en la ventana previa. Inactividad solo observada; sin entradas en histórico se separa.
 
 No calcular tasas de bajas, retención o bienvenida si faltan datos. No inventar ceros. Actualizar cobertura, fechas y período parcial en cada publicación. Render despliega main automáticamente: consultar list_deploys antes de intentar un despliegue manual, verificar commit live y sitio público.
+
+## Ocho áreas (01/11/2026)
+El dashboard contiene asistencia, primeros 30–90 días, antigüedad, clases, experiencia, objetivos, cuotas/renovación y motivos de baja. Actualizar la constante dashboardData de index.html, no summary. Conservar todas las secciones.
+
+Visitas ahora significa días distintos con Entrada por socio; entradas al torno es otra medida. Recuento de caída de frecuencia por días de visita: 210 / 953 (antes, 218 por movimientos). Actualizar ventanas, rótulos, fechas y explicaciones al cambiar el corte.
+
+Datos agregados: attendance (monthly/weekly/gaps/comparison), onboarding (grupos actuales y señal de 4 días en primeros 30 entre altas con ventana completa), tenure (distribución actual), fees (conceptos no excluyentes, fechas de baja futuras sin asumir renovación), bajas (cobertura y ausencia de motivos). Ver definiciones en el HTML. No presentar supervivencia/retención a partir de población actual.
+
+Fuentes adicionales pendientes: SEGUIMIENTO_INICIAL.csv; CLASES.csv; SATISFACCION.csv e INCIDENCIAS.csv; OBJETIVOS.csv; RENOVACIONES.csv; BAJAS_MOTIVOS.csv. Hay plantillas vacías descargables para recoger datos. No hay importador de estas nuevas fuentes todavía: al aparecer, validar primero su estructura y ampliar el cálculo sin exponer información individual ni inventar métricas. No representar ausencia de fuente como cero.
