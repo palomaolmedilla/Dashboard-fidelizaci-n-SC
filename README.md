@@ -82,3 +82,7 @@ PENDIENTE: informes privados nov5-*.csv conservados y no regenerados aún; aviso
 
 ## Franjas de edad13/11: Jóvenes y Adultos
 Por petición de Paloma, dividir19–55 en JOVENES19–30 y ADULTOS31–55.31años se asigna únicamenteAdultos para evitar duplicidad. ConservarTEENS0–18,SENIOR56–100,SIN_DATO. Selector y tabla actualizados; demographicData ahora24combinaciones sexo/edad, cada una all/ESADE/SC (72datasets). Edad cumplida al corte. Recalcular desde Excel original y validar sumas por sexo/tipo. No crear nuevo corte de socios por este cambio visual/de segmentación; no publicar datos individuales.
+
+
+## Categorías definitivas de edad13/11: siete franjas
+Sustituye franjas anteriores: Teen0–18(TEENS), Jóvenes19–30(JOVENES), Adultos31–40(ADULTOS), Maduros41–50(MADUROS), Senior51–60(SENIOR), Mayores61–70(MAYORES), Extra71–100(EXTRA). Extremos incluidos, sin solapamientos. SIN_DATO para nacimiento desconocido/no válido; edad por cumpleaños cumplido al corte. Filtro y tabla incluyen siete franjas; demographicData36combinaciones sexo/edad, cada una all/ESADE/SC=108datasets. Recalcular desde originales cada actualización; preservar demás filtros, colores y métricas. No nuevo snapshot por cambio de franjas.
