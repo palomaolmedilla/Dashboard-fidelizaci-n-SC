@@ -98,3 +98,7 @@ La tabla frequencyCohorts se integra DENTRO de la tarjeta Frecuencia cae50%(231)
 
 ## Ausencia14d por fecha de alta13/11
 Añadida attendance.absenceCohorts a todos datasets/filtros y tabla DENTRO de tarjeta Ausencia observada14d (attendanceMetrics.children2), con mismos cuatro tramos calendario y ESADE/SC. Numerador: activos con última visita conocida y días desde última visita>=14 al fin real de accesos (hi); sin ninguna visita observada se mantiene separado, no se considera ausencia confirmada. Denominador activos por tramo/tipo, porcentaje y—si0. Numeradores suman233 al corte13/11 y denominadores1429. Recalcular al actualizar fuentes y conservar tarjetas de frecuencia/sinvisita, colores y enlaces. No inferir inactividad ni fecha de alta.
+
+
+## Antigüedad integrada en resumen13/11
+Por petición de Paloma, Socios activos por tiempo desde el alta está DENTRO de la primera tarjeta Socios activos según listado (#overview.children0), debajo del total y ESADE/SC. overview-tenure contiene único #tenure creado en renderDashboard antes de renderTenure. Conservar barras apiladas, recuentos por tipo, followUpUrl y filtros. Se elimina duplicado del panel03Antigüedad; allí permanece bloque Bajas según meses desde alta pendiente de histórico. No restaurar distribución activa separada al actualizar. Cambio de ubicación sin recalcular ni crear cortes.
