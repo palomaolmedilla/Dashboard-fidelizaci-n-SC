@@ -116,3 +116,5 @@ Etiqueta vigente: «Con al menos 1 visita» sustituye «Con visita» en nuevas a
 
 ## Visitas nuevas altas: rangos EXCLUYENTES (prevalece)
 Sustituir umbrales acumulativos por columnas1–3visitas,4–7visitas,8–11visitas,12omásvisitas. onboarding.groups.visitBands claves1-3/4-7/8-11/12+. Calcular1–3=withVisit−threshold4,4–7=threshold4−threshold8,8–11=threshold8−threshold12,12+=threshold12. Validar no negativos y suma=withVisit para todos datasets/filtros. No mostrar columna0visitas (retirada por usuaria); Socios sí incluye quienes no han visitado y puede ser mayor que suma de bandas, nota visible. Mantener ESADE/SC y días distintos desdealta. No restaurar columnas «al menos».
+
+Títulos de columnas pedidos13/11: «De 1 a 3 visitas», «De 4 a 7 visitas», «De 8 a 11 visitas», «Más de 12 visitas». Última etiqueta mantiene cálculo12+ y nota visible que incluye exactamente12 para no perder esos socios. Mantener bandas excluyentes y conciliación a withVisit.
