@@ -94,3 +94,7 @@ Conservar tabla frequencyCohorts junto a tarjeta Frecuencia cae50%: tramos exclu
 
 ## Desgloses dentro de tarjetas de Asistencia13/11
 La tabla frequencyCohorts se integra DENTRO de la tarjeta Frecuencia cae50%(231), no panel separado. Añadida attendance.noVisitCohorts dentro Sin visita en últimos3meses(43). Ambas usan cuatro tramos calendario hasta3,más3–6,más6–12,más12meses desde alta, ESADEazul/SCverde, número/denominador y%. Frecuencia denominador comparables30vs30; sinvisita denominador activos por tramo, numerador sin días con Entrada desde13/08 al corte13/11. Si falta alta, categoría separada desconocida. Datos calculados para todos filtros/datasets; validar numeradores a summary.drop50/noObserved y denominadores a dropBase/active. tenureBreakdown inserta tablas dentro attendanceMetrics.children0y1 al renderizar; no crear panel externo. Preservar enlaces privados y avisos existentes.
+
+
+## Ausencia14d por fecha de alta13/11
+Añadida attendance.absenceCohorts a todos datasets/filtros y tabla DENTRO de tarjeta Ausencia observada14d (attendanceMetrics.children2), con mismos cuatro tramos calendario y ESADE/SC. Numerador: activos con última visita conocida y días desde última visita>=14 al fin real de accesos (hi); sin ninguna visita observada se mantiene separado, no se considera ausencia confirmada. Denominador activos por tramo/tipo, porcentaje y—si0. Numeradores suman233 al corte13/11 y denominadores1429. Recalcular al actualizar fuentes y conservar tarjetas de frecuencia/sinvisita, colores y enlaces. No inferir inactividad ni fecha de alta.
