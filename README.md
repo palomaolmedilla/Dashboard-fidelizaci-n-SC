@@ -106,3 +106,7 @@ Por petición de Paloma, Socios activos por tiempo desde el alta está DENTRO de
 
 ## Nuevas altas y hábito unificados13/11
 Mantener único cuadro Actividad de nuevas altas que siguen activas: columnas originales Antigüedad/Socios/Convisita/Sinvisita/Mediana primera visita más Con al menos4visitas,8visitas,12visitas. Filas0–30y31–90días porESADE/SC; filtros completos. Retirar cuadro independiente Señal inicial de hábito y referenciasDOMhabit/habitText. onboarding.groups[i].visitThresholds contiene claves4/8/12, recuentos acumulados de días distintos con Entrada desdealta hasta finrealaccesos, no primeros30fijos. Umbrales no excluyentes y ventanas distintas: advertencia visible. Recalcular todos108datasets más generales/segmentos; validar12<=8<=4<=convisita<=socios. No interpretar como retención ni tasa de hábito validada; mantener plantilla de seguimiento si se vuelve a añadir fuera de cuadro retirado.
+
+
+## Columnas nuevas altas13/11: formato vigente
+Eliminar columnas Sin visita y Mediana hasta primera visita de la tabla unificada. Conservar Antigüedad,Socios,Con visita,Con al menos4visitas,8visitas,12visitas; filas ESADE/SC0–30y31–90. No restaurar columnas retiradas al actualizar datos. Datos internos pueden conservarse para cálculos.
