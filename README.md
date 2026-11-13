@@ -86,3 +86,7 @@ Por petición de Paloma, dividir19–55 en JOVENES19–30 y ADULTOS31–55.31añ
 
 ## Categorías definitivas de edad13/11: siete franjas
 Sustituye franjas anteriores: Teen0–18(TEENS), Jóvenes19–30(JOVENES), Adultos31–40(ADULTOS), Maduros41–50(MADUROS), Senior51–60(SENIOR), Mayores61–70(MAYORES), Extra71–100(EXTRA). Extremos incluidos, sin solapamientos. SIN_DATO para nacimiento desconocido/no válido; edad por cumpleaños cumplido al corte. Filtro y tabla incluyen siete franjas; demographicData36combinaciones sexo/edad, cada una all/ESADE/SC=108datasets. Recalcular desde originales cada actualización; preservar demás filtros, colores y métricas. No nuevo snapshot por cambio de franjas.
+
+
+## Caída de frecuencia por fecha de alta13/11
+Conservar tabla frequencyCohorts junto a tarjeta Frecuencia cae50%: tramos excluyentes hasta3meses, más3–6, más6–12, más12meses. Usar meses naturales desde asOf (resta meses con último día válido), no dividir días por30. Fecha alta igual al límite pertenece tramo más reciente. Mostrar ambos grupos ESADE/SC con caídas/comparables y porcentaje; denominador0=>—. Aplicar a todas108combinaciones demographicData y datasets generales/segmentados, sumas iguales a summary.drop50/dropBase. Solo comparar socios con alta<=previousStart y visita previa; no inferir retención histórica. Datos attendance.frequencyCohorts se recalculan con cada carga. Corte13/11 límites13/08,13/05,13/11/2025; total231/1118. Mantener diseño, enlaces privados y filtros; no incluir identificadores.
