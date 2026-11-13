@@ -102,3 +102,7 @@ Añadida attendance.absenceCohorts a todos datasets/filtros y tabla DENTRO de ta
 
 ## Antigüedad integrada en resumen13/11
 Por petición de Paloma, Socios activos por tiempo desde el alta está DENTRO de la primera tarjeta Socios activos según listado (#overview.children0), debajo del total y ESADE/SC. overview-tenure contiene único #tenure creado en renderDashboard antes de renderTenure. Conservar barras apiladas, recuentos por tipo, followUpUrl y filtros. Se elimina duplicado del panel03Antigüedad; allí permanece bloque Bajas según meses desde alta pendiente de histórico. No restaurar distribución activa separada al actualizar. Cambio de ubicación sin recalcular ni crear cortes.
+
+
+## Nuevas altas y hábito unificados13/11
+Mantener único cuadro Actividad de nuevas altas que siguen activas: columnas originales Antigüedad/Socios/Convisita/Sinvisita/Mediana primera visita más Con al menos4visitas,8visitas,12visitas. Filas0–30y31–90días porESADE/SC; filtros completos. Retirar cuadro independiente Señal inicial de hábito y referenciasDOMhabit/habitText. onboarding.groups[i].visitThresholds contiene claves4/8/12, recuentos acumulados de días distintos con Entrada desdealta hasta finrealaccesos, no primeros30fijos. Umbrales no excluyentes y ventanas distintas: advertencia visible. Recalcular todos108datasets más generales/segmentos; validar12<=8<=4<=convisita<=socios. No interpretar como retención ni tasa de hábito validada; mantener plantilla de seguimiento si se vuelve a añadir fuera de cuadro retirado.
