@@ -112,3 +112,7 @@ Mantener único cuadro Actividad de nuevas altas que siguen activas: columnas or
 Eliminar columnas Sin visita y Mediana hasta primera visita de la tabla unificada. Conservar Antigüedad,Socios,Con visita,Con al menos4visitas,8visitas,12visitas; filas ESADE/SC0–30y31–90. No restaurar columnas retiradas al actualizar datos. Datos internos pueden conservarse para cálculos.
 
 Etiqueta vigente: «Con al menos 1 visita» sustituye «Con visita» en nuevas altas. Mantener cálculo withVisit, columnas1/4/8/12 y ausencia de Sin visita/Mediana.
+
+
+## Visitas nuevas altas: rangos EXCLUYENTES (prevalece)
+Sustituir umbrales acumulativos por columnas1–3visitas,4–7visitas,8–11visitas,12omásvisitas. onboarding.groups.visitBands claves1-3/4-7/8-11/12+. Calcular1–3=withVisit−threshold4,4–7=threshold4−threshold8,8–11=threshold8−threshold12,12+=threshold12. Validar no negativos y suma=withVisit para todos datasets/filtros. No mostrar columna0visitas (retirada por usuaria); Socios sí incluye quienes no han visitado y puede ser mayor que suma de bandas, nota visible. Mantener ESADE/SC y días distintos desdealta. No restaurar columnas «al menos».
