@@ -110,3 +110,5 @@ Mantener único cuadro Actividad de nuevas altas que siguen activas: columnas or
 
 ## Columnas nuevas altas13/11: formato vigente
 Eliminar columnas Sin visita y Mediana hasta primera visita de la tabla unificada. Conservar Antigüedad,Socios,Con visita,Con al menos4visitas,8visitas,12visitas; filas ESADE/SC0–30y31–90. No restaurar columnas retiradas al actualizar datos. Datos internos pueden conservarse para cálculos.
+
+Etiqueta vigente: «Con al menos 1 visita» sustituye «Con visita» en nuevas altas. Mantener cálculo withVisit, columnas1/4/8/12 y ausencia de Sin visita/Mediana.
