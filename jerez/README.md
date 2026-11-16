@@ -53,3 +53,6 @@ Evolución histórica16/11: sustituir tabla106mesespor gráficoSVGresponsive est
 
 
 Edad por tipología: mostrar franja junto a cada etiqueta de fila: Teen (0–18 años), Jóvenes (19–30 años), Adultos (31–40 años), Maduros (41–50 años), Senior (51–60 años), Mayores (61–70 años), Extra (71–100 años). Mantener al recalcular; no modificar datos ni porcentajes.
+
+
+Edad por tipología: ocultar fila Sin dato por petición16/11. Mantener siete franjas con límites en la etiqueta y TOTAL; no borrar datos base ni cambiar denominadores ni otras tablas.
