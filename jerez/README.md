@@ -50,3 +50,6 @@ Presentación sexo16/11: en Sexo por tipología ocultar permanentemente fila Sin
 
 
 Evolución histórica16/11: sustituir tabla106mesespor gráficoSVGresponsive estiloSC, Sociosverde#16a34a/Cursillistasrojo#dc2626, selectorDesde2018/2024/2026. No tabla visible. Valores en titlepuntospuntero. TítuloEvolución de socios y cursillistas desde2018: fuenteJEREZ empieza2018,no inventar2016ni categoríasSC/ESADE. renderJerezMemberHistory usa memberHistoryData.monthly completo106puntos conservados, sinmezclarcortecuotasactual. Ejes temporales reales, sin cerospara mesesausentes; líneasunenobservaciones. Mantenersexo tipologías,ingresosajustesmanuales,desplegablecursillosyotrosbloques intactos.
+
+
+Edad por tipología: mostrar franja junto a cada etiqueta de fila: Teen (0–18 años), Jóvenes (19–30 años), Adultos (31–40 años), Maduros (41–50 años), Senior (51–60 años), Mayores (61–70 años), Extra (71–100 años). Mantener al recalcular; no modificar datos ni porcentajes.
