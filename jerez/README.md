@@ -95,3 +95,6 @@ Detalleprivado bajasfuturas16/11: Historico/bajas-futuras-jerez-2026-11-16.csv i
 
 
 Apartado04: eliminar cuadroindependiente«Cursillistas según sexo» por duplicidad con00SOCIOS. Mantener comparativaSexoportipologíade00,datosbaseyrestode04. No restaurarcuadroduplicadoenactualizaciones.
+
+
+Apartado04: eliminar también«Cursillistas según franja de edad»,duplicadode00SOCIOS. Sexo yedadseconsultanencomparativaportipologíade00;mantenerdatosagregadosdebase,cuotas,cursillosyservicios. No restauraramboscuadrosduplicados.
