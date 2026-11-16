@@ -47,3 +47,6 @@ Un único panel Socios activos según tipología dentro00SOCIOS: columnasSocios9
 
 
 Presentación sexo16/11: en Sexo por tipología ocultar permanentemente fila Sin dato; mostrar Hombre,Mujer,TOTAL. Conservar datos de base y denominadores por tipología. No retirar Sin dato de edad o antigüedad por esta petición.
+
+
+Evolución histórica16/11: sustituir tabla106mesespor gráficoSVGresponsive estiloSC, Sociosverde#16a34a/Cursillistasrojo#dc2626, selectorDesde2018/2024/2026. No tabla visible. Valores en titlepuntospuntero. TítuloEvolución de socios y cursillistas desde2018: fuenteJEREZ empieza2018,no inventar2016ni categoríasSC/ESADE. renderJerezMemberHistory usa memberHistoryData.monthly completo106puntos conservados, sinmezclarcortecuotasactual. Ejes temporales reales, sin cerospara mesesausentes; líneasunenobservaciones. Mantenersexo tipologías,ingresosajustesmanuales,desplegablecursillosyotrosbloques intactos.
