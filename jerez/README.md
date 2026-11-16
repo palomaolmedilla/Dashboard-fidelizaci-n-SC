@@ -44,3 +44,6 @@ CURSILLISTAS.xls id:vZMJ-le_tQ0AAAAAAABOFA client_modified2026-11-16T14:19:11Z95
 
 ## SOCIOS dos tipologías16/11
 Un único panel Socios activos según tipología dentro00SOCIOS: columnasSocios959verde/Cursillistas528rojo. Mismo cuadro incluye comparativasSexo(Hombre/Mujer/Sindato),Edad7franjas+Sindato yAntigüedad; cifrasy% sobretotaldecadatipología,filasTOTAL. Dos personasambastipologías,1485únicas; no tipologíasexcluyentes,no sumarlas como1487personas. SexoSocios473H/486M,Cursillistas273H/255M. Mantener color en encabezadosycifras. courseMemberData.tenure cursillistas0–30:25,31–90:486,91–180:5,181–365:2,>365:9,Sindato1 (alta futura/no válida: no imputartramo). Alta personalfuente no necesariamenteiniciocurso. Cuadrosanteriores separadosenSOCIOS sustituidos; históricooriginalyClasesconservados. Actualizarambastipologíasjuntas desdefuentes sin publicarindividuales. Conservaringresosajustesmanualesydesplegable.
+
+
+Presentación sexo16/11: en Sexo por tipología ocultar permanentemente fila Sin dato; mostrar Hombre,Mujer,TOTAL. Conservar datos de base y denominadores por tipología. No retirar Sin dato de edad o antigüedad por esta petición.
