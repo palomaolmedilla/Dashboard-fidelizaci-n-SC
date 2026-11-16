@@ -98,3 +98,7 @@ Apartado04: eliminar cuadroindependiente«Cursillistas según sexo» por duplici
 
 
 Apartado04: eliminar también«Cursillistas según franja de edad»,duplicadode00SOCIOS. Sexo yedadseconsultanencomparativaportipologíade00;mantenerdatosagregadosdebase,cuotas,cursillosyservicios. No restauraramboscuadrosduplicados.
+
+
+## Nombres y panel lateral unificado16/11
+Nombres visiblesytítulo navegador: DASHBOARD SC para raíz; DASHBOARD JEREZ para jerez/index.html. Compartir exactamente estilo dashboard-sidebar: fondoscuro#12343c,220pxdesktop/185pxtablet,logooriginalC4 88px,nombre15pxblanco,navconbnumérico,tipografía12px,espaciadoycoloresidénticos. Menúfijodesktop,fluidohorizontalmóvil<=760. EnJerez jerez-layoutdisplayblock,jerez-mainmarginleftigualSC; no reintroducirpanelblanco/formatoanterior. Seccionesycálculosdecadacentroseconservan,nounificarcontenidoentrecentros. Scriptsdatos/logooriginalintactos. Conservarnombresyestiloenfuturasactualizaciones.
