@@ -56,3 +56,7 @@ Edad por tipología: mostrar franja junto a cada etiqueta de fila: Teen (0–18 
 
 
 Edad por tipología: ocultar fila Sin dato por petición16/11. Mantener siete franjas con límites en la etiqueta y TOTAL; no borrar datos base ni cambiar denominadores ni otras tablas.
+
+
+## Asistencia frecuencia semanal16/11
+Panel al inicio01Asistencia: columnasSociosverde/Cursillistasrojo, rangosexcluyentes1/2/3/4/>4díasdistintosconEntrada por semana lunes–domingo; separarfilaSinentradaobservada para conciliar,totaly% sobre ventana completa. Selector13semanascompletas másreciente09–15/11; no actual16/11parcial. Universo listadosACTUALES,no poblaciónhistóricacompleta: sociosaltaconocida<=lunes;cursillistasalta<=lunesycursillovigentedurantetodasemana. Fuera comparación altasrecientesofechasno válidas. No reconstruirvigenciahistóricasocios. Últimasemana952socios(7fuera):1visita167,2:212,3:130,4:74,>4:46,0observadas323.526cursillistas(2fuera):2visitas1,0observadas525. AVISOCRÍTICO: solo1de528códigoscursillistas tieneEntrada enTODOACCESOS01/08–16/11; no medir asistenciarealclasesniinactividadconestaexportación. Mostrar aviso prominentedecontrolaccesos/asistenciacursosporconfirmar. Deduplicarcodigo/fecha/hora/sentidoaprecisiónoriginalHH:MM,contarEntradas,díadistinto. weeklyFrequencyData agregado,noidentificadores. ConservarrestoSOCIOS,gráficohistórico,ingresosajustesmanualesydesplegables. No convertirnoobservadoeninactivo.
