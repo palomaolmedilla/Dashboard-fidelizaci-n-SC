@@ -86,3 +86,6 @@ BAJAS1.1.26a16.11.26(código,fechaalta yfechabaja).xls id:vZMJ-le_tQ0AAAAAAABOIA
 
 
 Cuotas16/11: en capítulo04 cuadroCuotas y cursillos con dos tablasSociosverde/Cursillistasrojo. OrdenarDESCpor%decadatipología(recuento;empatealfabético),17cuotas/12cursillos. Cuotas=dashboardData.fees,denominador959;Cursillos=courseMemberData.courses,denominador528;filasTOTAL959/528,1decimal. Una cuota porpersona(solapadasagrupadas),curso dedupcodigo+curso. Actualcorteuna inscripciónporpersona528; si futuras múltiples, filaspuedensumar másdepersonas, no afirmarconciliaciónfalsa. No mezclar porcentajesdeambosuniversos ni sumarcomoúnicos. Conservarorden ycoloresenactualizaciones. Bajas03actualizadoy29futurasconservadasenBajas,no restaurarplaceholderfuturasenCuotas.
+
+
+Unificación capítulos16/11: «04 · Cuotas, cursillos y servicios» (idcuotas) agrupa cuotasordenadas,cursillosyantiguocontenidoClases/servicios. Quitar capítulo05ymenúindependiente; conservaranclaclasescomodivdentro04paraenlacesprevios. Mantenerrestonúmeros06–08sinrenumerar. Ahora9secciones,no restaurar10porplantillaanterior. Todoslosdatosagregadosyfuncionesanterioresconservados; cuadrossexo/edadSOCIOScontinúan. No restaurarseparación04/05enactualizaciones.
