@@ -72,3 +72,7 @@ ACCESOS SOCIOS1.1.26A30.4.26.xls id:vZMJ-le_tQ0AAAAAAABOGA client14:48:30Z554854
 
 
 Tiempo desde el alta por tipología: ocultar fila Sin dato por petición16/11. Conservar datos de base, total y denominadores; no asignar fechas desconocidas a otro tramo. Mantener esta presentación al recalcular.
+
+
+## Frecuencia trimestral16/11 (presentación vigente)
+Sustituir selectorsemanal por1º/2º/3º/4ºtrimestre2026;renderQuarterlyFrequency/quarterlyFrequencyData desdeweeklyFrequencyData. Cada celda=mediaPERSONASPORSEMANA enrangosexcluyentes1/2/3/4/>4visitas,no mediaindividualclasificada. Numerador=sumarecuentossemanales,dividirnºsemanas;porcentajes=sumapersonas-semanarango/sumaelegibles-personas-semana;1decimal. Totalmedioelegibles. Solo semanaslunes–domingo enteramentedentrotrimestreanterioresdíaactualparcial; excluirsemanascondíassinfilas04/02y26/04. Q1:11semanas,Q2:11,Q3:12,Q4:6(provisional,hasta15/11). UniversolistadosACTUALESconaltaycursoanterioresventana,no reconstruirpoblaciónhistórica. Q1/Q2cursillistas0ventanacompleta=>—, nunca0asistencia,notaexplícita. Datoscursoactualnoacreditaninscripcioneshistóricas. TítuloFrecuencia semanal media por trimestre y tipología. Conservaravisocoberturacursillistasycolores. weeklyFrequencyData45semanas permanecebase; recalculardesdefuentesycoverageenactualizaciones.
