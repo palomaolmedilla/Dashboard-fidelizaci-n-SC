@@ -92,3 +92,6 @@ Unificación capítulos16/11: «04 · Cuotas, cursillos y servicios» (idcuotas)
 
 
 Detalleprivado bajasfuturas16/11: Historico/bajas-futuras-jerez-2026-11-16.csv id:vZMJ-le_tQ0AAAAAAABOMg29filas. Enlaceobtenidoporfetch https://www.dropbox.com/scl/fi/6wqrn6o7qbnuehbfppioi dentrocuadroBajasfuturasregistradas; no crearsharedlinkpúblico. CSVcamposcodigo,fechaalta,fechabajaprevista,diashastabaja,estadocontacto,fechacontacto,accioncontacto,corte. FuenteBAJASsin nombresniteléfonos,noinventar;codigo búsquedainternaCRM. EnactualizaciónleerCSVexistenteconnotasMANUALES,preservarporcodigo/fechabaja,crearnuevaversiónfechadasinborraranterior,renovarenlacesolo trasfetchéxito. Websololinkautenticadoyagregados,nolistadospersonales. No afirmaraccesouniversalsinpermisosDropbox.
+
+
+Apartado04: eliminar cuadroindependiente«Cursillistas según sexo» por duplicidad con00SOCIOS. Mantener comparativaSexoportipologíade00,datosbaseyrestode04. No restaurarcuadroduplicadoenactualizaciones.
