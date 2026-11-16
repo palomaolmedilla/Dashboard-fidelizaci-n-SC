@@ -18,3 +18,6 @@ Histórico socios y cursillistas hasta octubre2026.xlsx hojaSOCIOS:bloques2018�
 
 ## Clasificación ingresos confirmada Paloma16/11 (prevalece)
 VARIOS: concepto normalizado VINILO MEDAC (MENSUAL), BONO 10 ENTRADAS (10 SESIONES), y gruposARTICULOS/ARTÍCULOS,TAQUILLAS,MATRICULAS/MATRÍCULAS. CURSOS: grupoCURSILLOS. Todos los demás movimientos=>CUOTAS. Aplicar por movimiento, mayúsculas/trim, preservar negativos y baseSINIVA. No usar reglaSC, no excluir automáticamenteSEGURO/TOALLASdeingresos si no están enVARIOS segúnesta lista. Reglas deuniversosocios sonindependientes. Presupuesto originalsin reclasificación nueva: conservarvaloresprevios de fuente. Totalesmensualesy586879.91€global intactos. BackupnuevoHistorico/agregados-reclasificados-2026-11-16.json preserva anterior. Mantenerregla cadaactualización.
+
+
+Colores confirmados16/11: en evolución histórica, Clientes (socios de fuente) verde #16a34a y Cursillistas rojo #dc2626, tanto encabezados como cifras. Totales neutros. Conservar en próximas actualizaciones.
