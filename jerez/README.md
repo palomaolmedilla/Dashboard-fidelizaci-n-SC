@@ -79,3 +79,7 @@ Sustituir selectorsemanal por1º/2º/3º/4ºtrimestre2026;renderQuarterlyFrequen
 
 
 Nombre vigente capítulo01 y menú: «01· Frecuencia asistencia». Mantener id=asistencia y cálculos existentes.
+
+
+## BAJAS incorporadas16/11 16:01 Madrid
+BAJAS1.1.26a16.11.26(código,fechaalta yfechabaja).xls id:vZMJ-le_tQ0AAAAAAABOIA client_modified2026-11-16T15:01:22Z164352bytes. XLS1931filasúnicas1931códigos, cabeceraFechaalta/Codigo/Fechabaja. FechasExcel originales,sinextracciónambigua.1442efectivas<=16/11,29futuras(28nov,1dic),460sinfechabajanoequivalenabaja,0duplicadas,0altasnegativas. Fechasefectivasenero–octubre; no inventar noviembre0enseriesincompletas. RangosmesesnaturalescumplidosENTREALTAyBAJA(nohastaejecución):<3:565,3–<6:270,6–<12:194,>=12:413,total1442; %sobreefectivasclasificables. Sin cuota/tipologíahistórica, mantenerconjuntofuenteNOasignarSocios/Cursillistasporpresencialistadoactual. No tasaretenciónniabandono conpoblaciónhistóricaincompleta, no restar1442del959actual, no bajasporausencia. Capítulo03ymenúrenombrados«03 · Bajas»(idantiguedadconservado), cuadroBajas según meses desde el alta, detallemensualdesplegableyfuturasaparte. Capítulo06Motivodebajasinfuente,sigueNoDisponible. cancellationDataagregadosúnicamentepúblicos. BackupprivadoHistorico/bajas-jerez-2026-11-16.json mínimoCodigo/alta/baja,sinnombre/nacimiento/sexo. Preservarversiones. Otrosmódulosincluidosfrecuenciatrimestral,ingresosajustesmanualesysinDatooculto intactos.
