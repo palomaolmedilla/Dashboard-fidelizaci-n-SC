@@ -89,3 +89,6 @@ Cuotas16/11: en capítulo04 cuadroCuotas y cursillos con dos tablasSociosverde/C
 
 
 Unificación capítulos16/11: «04 · Cuotas, cursillos y servicios» (idcuotas) agrupa cuotasordenadas,cursillosyantiguocontenidoClases/servicios. Quitar capítulo05ymenúindependiente; conservaranclaclasescomodivdentro04paraenlacesprevios. Mantenerrestonúmeros06–08sinrenumerar. Ahora9secciones,no restaurar10porplantillaanterior. Todoslosdatosagregadosyfuncionesanterioresconservados; cuadrossexo/edadSOCIOScontinúan. No restaurarseparación04/05enactualizaciones.
+
+
+Detalleprivado bajasfuturas16/11: Historico/bajas-futuras-jerez-2026-11-16.csv id:vZMJ-le_tQ0AAAAAAABOMg29filas. Enlaceobtenidoporfetch https://www.dropbox.com/scl/fi/6wqrn6o7qbnuehbfppioi dentrocuadroBajasfuturasregistradas; no crearsharedlinkpúblico. CSVcamposcodigo,fechaalta,fechabajaprevista,diashastabaja,estadocontacto,fechacontacto,accioncontacto,corte. FuenteBAJASsin nombresniteléfonos,noinventar;codigo búsquedainternaCRM. EnactualizaciónleerCSVexistenteconnotasMANUALES,preservarporcodigo/fechabaja,crearnuevaversiónfechadasinborraranterior,renovarenlacesolo trasfetchéxito. Websololinkautenticadoyagregados,nolistadospersonales. No afirmaraccesouniversalsinpermisosDropbox.
