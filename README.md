@@ -141,3 +141,7 @@ Renombrar03Antigüedad aBajas enmenúycabecera,idantiguedadconservado. Sustituir
 
 
 Título solicitado17/11: «Frecuencia cae ≥ 50 % en los últimos 3 meses» en ambosdashboards. Cambioúnicamentederótulo: conservarcálculosexistentes30vs30yventanasexplícitasdelanota,desglosesporaltaytipología. No inferirnuevacomparación90vs90porcambiodenombre.
+
+
+## Fuente BAJAS ampliada17/11 12:10 (prevalece)
+BAJAS1.1.26a17.11.2026(códifo,fechaalta yfechabaja).xls id:vZMJ-le_tQ0AAAAAAABOJQ client_modified2026-11-17T11:10:56Z116736bytes. CabeceraFechaalta/Fechabaja/Codigo,índices0/1/2.1246únicos,1056efectivasal17/11,115futuras,75sinfechabajaexcluidas. AntigüedadENTREALTAyBAJA:menos3:308,3–<6:167,6–<12:356,>=12:225;total1056. ReemplazaalcancesóloNoviembre60,no sumar ambosexportes. cancellationTenureDataactualizada,panel03. Cuota/filtro:fees.futureBaja/next30Baja ybajas.sourceRows/matchedEffectiverecalculadosenTODOSdatasets/cube108desdecohortesSOCIOSvigentes13/11(fechassexo/edad/tipoconservadas),evaluación17/11.108futurascruzadasconpoblaciónactual;115totalarchivoesotra población. No recalcularactivosporbajashistóricassinSOCIOSnuevo, ni crear snapshotmiembros. Sin cuota histórica enBAJAS:noinventarSC/ESADEpara1056. Avisofuente17/11ylistadosprivadosanteriorespendientesvisible;noafirmarCSVrenovados. BackupHistorico/bajas-sc-2026-11-17-fuente1110.json mínimoCodigo/alta/baja,sinnombres/nacimiento/sexo;preservaranteriores. Ingresos/AADD/series/ambosdashboardsnombresyrestointactos.
