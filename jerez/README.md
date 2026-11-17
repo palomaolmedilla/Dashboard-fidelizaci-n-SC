@@ -110,3 +110,6 @@ Sustituir dos placeholders y ampliar ausencia14 a Sociosverde/Cursillistasrojo. 
 
 ## Desglose de señales por antigüedad17/11
 Dentro de CADA tarjetaFrecuenciacae50/Sinvisita3meses/Ausencia14 añadir tablaMesesdesdealtaestiloSC, columnasSociosverde/Cursillistasrojo:Hasta3meses,Másde3–6,Másde6–12,Másde12. Límites calendario al corte población16/11:16/08,16/05,16/11/2025;alta>=límiteincluidatramomenor,excluyentes. AltaausenteofuturaenAltasinconfirmarparaconciliar,noinventarfecha. Cada celda numerador/denominador y%;dropdenominadorcomparablesdeltramo,otrosactivosdeltramo. FilaTOTALconciliaexactamente tarjeta;validarambostipos. Cursillistasalta persona,nofechainiciocurso. attendanceSignalCohortsagregados públicos, sinidentificadoresindividuales. Manteneravisoscoberturaylistadosactuales,no afirmarretención. No mover tablas fuera de sus tarjetas ni cambiar totales al añadir desglose.
+
+
+Título solicitado17/11: «Frecuencia cae ≥ 50 % en los últimos 3 meses» en ambosdashboards. Cambioúnicamentederótulo: conservarcálculosexistentes30vs30yventanasexplícitasdelanota,desglosesporaltaytipología. No inferirnuevacomparación90vs90porcambiodenombre.
