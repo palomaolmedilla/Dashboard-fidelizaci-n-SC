@@ -113,3 +113,7 @@ Dentro de CADA tarjetaFrecuenciacae50/Sinvisita3meses/Ausencia14 añadir tablaMe
 
 
 Título solicitado17/11: «Frecuencia cae ≥ 50 % en los últimos 3 meses» en ambosdashboards. Cambioúnicamentederótulo: conservarcálculosexistentes30vs30yventanasexplícitasdelanota,desglosesporaltaytipología. No inferirnuevacomparación90vs90porcambiodenombre.
+
+
+## Verificación de fuentes 17/11 (sin cambios de cifras)
+Revisados originales actuales Ingresos/jul.xls id:vZMJ-le_tQ0AAAAAAABOEA client_modified2026-11-16T13:48:35Z41472bytes e Ingresos/sep.xls id:vZMJ-le_tQ0AAAAAAABOEg client_modified2026-11-16T13:22:32Z39936bytes. Cabeceras de importes localizadas, base+IVA=TOTAL comprobado por fila con tolerancia1céntimo; clasificación vigente aplicada a56/47líneas. Agregados sourceActual por las6categorías coinciden exactamente con incomeData publicado. Julio en céntimosCuotas2456706,Cursos102562,Alquiler142340,Piscina706727,Campus45950,Varios832403;septiembre4246744,1007783,254624,3512,0,972257. Queda resuelta validación pendiente de julio sin cambiar ingresos, ajustes manuales ni presupuesto. No crear nuevos cortes ni despliegues por esta comprobación. Fuentes de ambos centros sin novedades respecto a las últimas cargas documentadas.
